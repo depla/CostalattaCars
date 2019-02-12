@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">Costalatta Coches</string>
+    <!-- LAYOUT LABEL STRINGS -->
+    <string name="title_activity_main">Concesionario de Coches</string>
+    <string name="instruction">Introduzca la información de compra del coche.</string>
+    <string name="dollar_sign">PS</string>
+    <string name="car_price">¿Cuál es el precio de tu coche?</string>
+    <string name="cash_down_payment">¿Cuál es su pago inicial?</string>
+    <string name="choose_loan_term">Elija el plazo de su préstamo</string>
+    <string name="years3">3 años</string>
+    <string name="years4">4 años</string>
+    <string name="years5">5 años</string>
+    <string name="go_data_entry">Volver a la entrada de datos</string>
+
+    <!-- REPORT STRINGS -->
+    <string name="loan_summary">Resumen de su préstamo</string>
+    <string name="loan_report_button_text">Informe de prestamo</string>
+    <string name="enter_price">Introduzca precio ...</string>
+    <string name="enter_down_payment">Ingrese el pago inicial ...</string>
+    <string name="car_sticker_price">Etiqueta engomada del coche Precio:</string>
+    <string name="down_payment">Pago inicial:</string>
+    <string name="tax_amount">Importe del impuesto:</string>
+    <string name="total_cost">Coste total:</string>
+    <string name="borrowed_amount">Monto prestado:</string>
+    <string name="interest_amount">Cantidad de interés:</string>
+    <string name="sales_tax_rate">Tasa de impuesto a las ventas:</string>
+    <string name="monthly_payment">Mensualidad:</string>
+    <string name="loan_term">Plazo del préstamo:</string>
+</resources>
